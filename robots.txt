@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://proplumbingmillcreek.com/sitemap.xml
